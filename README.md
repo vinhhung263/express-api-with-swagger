@@ -25,3 +25,8 @@ Swagger UI on localhost:3000/api-docs
 
 ## Reference
 
+[1] LogRocket - https://blog.logrocket.com/documenting-your-express-api-with-swagger/
+
+[2] Swagger Docs - https://swagger.io/docs/specification/basic-structure/
+
+[3] Swagger-ui-express - https://www.npmjs.com/package/swagger-ui-express
