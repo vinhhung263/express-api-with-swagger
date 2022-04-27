@@ -1,0 +1,27 @@
+{
+    "definition": {
+        "openapi": "3.0.0",
+        "info": {
+            "title": "Express API with Swagger",
+            "version": "0.1.0",
+            "description": "This is a simple CRUD API application made with Express and documented with Swagger",
+            "license": {
+                "name": "MIT",
+                "url": "https://spdx.org/licenses/MIT.html"
+            },
+            "contact": {
+                "name": "Frank Gaston",
+                "url": "https://github.com/vinhhung263",
+                "email": "hungpv263@gmail.com"
+            }
+        },
+        "servers": [
+            {
+                "url": "http://localhost:3000/books"
+            }
+        ]
+    },
+    "apis": [
+        "./routes/book.routes.js"
+    ]
+}
